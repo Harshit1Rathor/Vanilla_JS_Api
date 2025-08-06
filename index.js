@@ -1,6 +1,6 @@
 const http = require('http');
 const data = require('./data/data.json');
-const PORT =  5000;
+const PORT =  5001;
 
 const getReq = require('./methods/get_req');
 const putReq = require('./methods/put_req');
